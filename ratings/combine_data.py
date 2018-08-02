@@ -22,4 +22,5 @@ del df_combined['row']
 df_combined.reset_index(drop=False,inplace=True)
 df_combined.rename(columns={'index':'row'},inplace=True)
 
-df_combined.to_csv('../data/all_movies_with_twitter_and_ratings.csv')
+df_combined.to_csv('../data/all_movies_with_twitter_and_ratings.csv',header=True,index=False)
+
