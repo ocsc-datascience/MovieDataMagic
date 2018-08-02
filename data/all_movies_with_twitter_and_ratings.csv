@@ -1,0 +1,290 @@
+,row,rank,movie_title,studio,total_gross,total_theater,opening_weekend_count,opening_theater_count,release_date,close_date,twitter1,twitter2,twitter3,twitter4,twitter5,RT_title,critics_rating,audience_rating
+0,0,90,Eighth Grade,A24,"$1,648,837",158,"$263,797",4,8/3/18,-,EighthGrade,,,,,Eighth_Grade,99.0,89.0
+1,1,57,Mission: Impossible - Fallout,Par.,"$23,000,000","4,386",,"4,386",7/27/18,-,MissionImpossible,MissionImpossibleFallout,,,,Mission_Impossible_Fallout,97.0,92.0
+2,2,84,Teen Titans Go! To The Movies,WB,"$4,250,000","3,188",,"3,188",7/27/18,-,TeenTitansGOMovie,,,,,Teen_Titans_Go_To_The_Movies,90.0,72.0
+3,3,91,Princess Mononoke - Studio Ghibli (2018),Fathom,"$1,464,271",739,"$489,847",739,7/22/18,-,princessmononoke,,,,,princess_mononoke_studio_ghibli_fest_2018,-1.0,83.0
+4,4,22,Mamma Mia! Here We Go Again,Uni.,"$60,227,525","3,514","$34,952,180","3,317",7/20/18,-,MammaMia2,,,,,Mamma_Mia_Here_We_Go_Again,79.0,76.0
+5,5,28,The Equalizer 2,Sony,"$54,241,345","3,388","$36,011,640","3,388",7/20/18,-,TheEqualizer2,,,,,The_Equalizer_2,50.0,74.0
+6,6,76,Unfriended: Dark Web,BH Tilt,"$6,375,430","1,547","$3,653,035","1,546",7/20/18,-,UnfriendedMovie,UnfriendedDarkWeb,,,,Unfriended_Dark_Web,57.0,44.0
+7,7,12,Hotel Transylvania 3: Summer Vacation,Sony,"$110,628,501","4,267","$44,076,225","4,267",7/13/18,-,HotelT3,,,,,Hotel_Transylvania_3_Summer_Vacation,62.0,52.0
+8,8,27,Skyscraper,Uni.,"$55,264,760","3,822","$24,905,015","3,782",7/13/18,-,SkyscraperMovie,,,,,skyscraper_2018,48.0,79.0
+9,9,67,Sorry to Bother You,Annapurna,"$12,327,421","1,050","$727,266",16,7/13/18,-,SorryToBotherYou,,,,,Sorry_to_Bother_You,94.0,62.0
+10,10,8,Ant-Man and the Wasp,BV,"$177,219,127","4,206","$75,812,205","4,206",7/6/18,-,AntMan,,,,,Ant-Man_and_the_Wasp,87.0,80.0
+11,11,21,The First Purge,Uni.,"$63,917,875","3,038","$17,374,280","3,031",7/4/18,-,TheFirstPurge,,,,,The_First_Purge,52.0,34.0
+12,12,33,Sicario: Day of the Soldado,Sony,"$48,230,874","3,055","$19,007,566","3,055",6/29/18,-,SicarioMovie,,,,,Sicario_Day_of_the_Soldado,64.0,66.0
+13,13,41,Uncle Drew,LG/S,"$40,891,671","2,742","$15,242,781","2,742",6/29/18,-,UncleDrew,,,,,Uncle_Drew,64.0,54.0
+14,14,61,Won't You Be My Neighbor?,Focus,"$19,343,937",893,"$475,419",29,6/29/18,-,MrRogersMovie,,,,,Wont_You_Be_My_Neighbor?,99.0,97.0
+15,15,97,TCM: West Side Story,Fathom,"$408,136",616,"$214,212",616,6/24/18,-,tcm,,,,,west_side_story_presented_by_tcm,-1.0,-1.0
+16,16,4,Jurassic World: Fallen Kingdom,Uni.,"$392,717,500","4,485","$148,024,610","4,475",6/22/18,-,FallenKingdom,,,,,Jurassic_World_Fallen_Kingdom,51.0,54.0
+17,17,3,Incredibles 2,BV,"$567,751,648","4,410","$182,687,905","4,410",6/15/18,-,Incredibles2,,,,,Incredibles_2,93.0,87.0
+18,18,29,Tag,WB (NL),"$53,349,175","3,382","$14,947,396","3,382",6/15/18,-,TagMovie,,,,,tag_2018,54.0,59.0
+19,19,60,Superfly,Col.,"$20,480,302","2,220","$6,870,740","2,220",6/13/18,-,Superfly,,,,,Superfly,92.0,69.0
+20,20,10,Ocean's 8,WB,"$136,837,915","4,145","$41,607,378","4,145",6/8/18,-,Oceans8,,,,,Oceans_8,67.0,47.0
+21,21,38,Hereditary,A24,"$43,622,140","2,998","$13,575,172","2,964",6/8/18,-,Hereditary,,,,,Hereditary,89.0,59.0
+22,22,75,Hotel Artemis,Global Road,"$6,708,147","2,407","$3,232,790","2,407",6/8/18,7/19/18,HotelArtemis,,,,,Hotel_Artemis,59.0,33.0
+23,23,50,Adrift,STX,"$31,385,713","3,015","$11,603,039","3,015",6/1/18,-,AdriftMovie,,,,,Adrift,73.0,71.0
+24,24,68,Upgrade,BH Tilt,"$11,871,365","1,458","$4,670,905","1,457",6/1/18,7/12/18,UpgradeMovie,,,,,upgrade_2018,85.0,86.0
+25,25,80,Action Point,Par.,"$5,059,608","2,032","$2,390,164","2,032",6/1/18,6/14/18,ActionPoint,,,,,Action_Point,20.0,35.0
+26,26,6,Solo: A Star Wars Story,BV,"$212,620,759","4,381","$84,420,489","4,381",5/25/18,-,HanSolo,HanSoloMovie,,,,Solo_A_Star_Wars_Story,71.0,64.0
+27,27,5,Deadpool 2,Fox,"$317,478,854","4,349","$125,507,153","4,349",5/18/18,-,Deadpool2,,,,,Deadpool_2,83.0,86.0
+28,28,19,Book Club,Par.,"$68,331,773","3,169","$13,582,231","2,781",5/18/18,-,BookClub,,,,,Book_Club,54.0,59.0
+29,29,63,Show Dogs,Global Road,"$17,744,685","3,212","$6,023,972","3,212",5/18/18,7/26/18,ShowDogsMovie,,,,,Show_Dogs,17.0,27.0
+30,30,30,Life of the Party,WB (NL),"$52,801,277","3,656","$17,886,075","3,656",5/11/18,-,LifeOfTheParty,,,,,life_of_the_party_2018,37.0,42.0
+31,31,35,Breaking In (2018),Uni.,"$46,383,120","2,537","$17,630,285","2,537",5/11/18,7/12/18,BreakingInMovie,,,,,Breaking_In_2018,24.0,31.0
+32,32,31,Overboard (2018),PNT,"$50,316,123","2,006","$14,711,101","1,623",5/4/18,7/5/18,OverboardMovie,,,,,Overboard_2018,26.0,61.0
+33,33,71,Tully (2018),Focus,"$9,227,130","1,356","$3,282,610","1,353",5/4/18,6/7/18,TULLY,,,,,Tully_2018,87.0,76.0
+34,34,85,Bad Samaritan,Electric,"$3,435,047","2,007","$1,726,868","2,007",5/4/18,5/24/18,BadSamaritan,,,,,Bad_Samaritan,52.0,79.0
+35,35,2,Avengers: Infinity War,BV,"$677,273,078","4,474","$257,698,183","4,474",4/27/18,-,InfinityWar,,,,,Avengers_Infinity_War,83.0,91.0
+36,36,32,I Feel Pretty,STX,"$48,795,601","3,440","$16,030,218","3,440",4/20/18,6/21/18,IFeelPretty,,,,,I_Feel_Pretty,33.0,33.0
+37,37,51,Super Troopers 2,Fox,"$30,617,396","2,125","$15,181,624","2,038",4/20/18,7/12/18,SuperTroopers2,,,,,Super_Troopers_2,31.0,70.0
+38,38,72,Traffik,LGF,"$9,186,156","1,046","$3,941,338","1,046",4/20/18,5/31/18,Traffik,,,,,traffik_2018,26.0,55.0
+39,39,15,Rampage (2018),WB (NL),"$99,345,950","4,115","$35,753,093","4,101",4/13/18,-,RampageMovie,,,,,Rampage_2018,52.0,78.0
+40,40,43,Truth or Dare,Uni.,"$40,717,020","3,068","$18,667,855","3,029",4/13/18,6/7/18,TruthorDareMovie,,,,,blumhouses_truth_or_dare,14.0,20.0
+41,41,49,Isle Of Dogs,FoxS,"$31,970,030","1,947","$1,620,294",27,4/13/18,-,IsleofDogs,,,,,isle_of_dogs_2018,90.0,88.0
+42,42,87,Sgt. Stubby: An American Hero,FunAcad,"$3,140,677","1,633","$1,164,403","1,633",4/13/18,-,StubbyMovie,,,,,Sgt_Stubby_An_American_Hero,82.0,97.0
+43,43,81,Beirut,BST,"$5,019,226",755,"$1,734,497",755,4/11/18,6/14/18,BeirutMovie,,,,,Beirut,79.0,55.0
+44,44,7,A Quiet Place,Par.,"$187,841,212","3,808","$50,203,562","3,508",4/6/18,-,AQuietPlace,,,,,A_Quiet_Place,95.0,84.0
+45,45,23,Blockers,Uni.,"$59,839,515","3,418","$20,556,350","3,379",4/6/18,6/14/18,BlockersMovie,,,,,Blockers,83.0,50.0
+46,46,65,Chappaquiddick,ENTMP,"$17,394,764","1,645","$5,765,854","1,560",4/6/18,-,Chappaquiddick,,,,,Chappaquiddick,80.0,71.0
+47,47,69,The Miracle Season,Mirr/LD,"$10,230,620","1,707","$3,950,652","1,707",4/6/18,7/5/18,TheMiracleSeason,,,,,The_Miracle_Season,47.0,88.0
+48,48,39,Tyler Perry's Acrimony,LGF,"$43,549,096","2,006","$17,170,707","2,006",3/30/18,6/7/18,Acrimony,,,,,Tyler_Perrys_Acrimony,21.0,49.0
+49,49,79,God's Not Dead: A Light in Darkness,PFR,"$5,728,940","1,693","$2,689,677","1,693",3/30/18,6/14/18,GodsNotDead,,,,,Gods_Not_Dead_A_Light_in_Darkness,13.0,58.0
+50,50,9,Ready Player One,WB,"$137,018,455","4,234","$41,764,050","4,234",3/29/18,7/5/18,ReadyPlayerOne,,,,,Ready_Player_One,73.0,78.0
+51,51,24,Pacific Rim Uprising,Uni.,"$59,185,715","3,708","$28,116,535","3,708",3/23/18,5/17/18,PacificRimUprising,,,,,Pacific_Rim_Uprising,43.0,42.0
+52,52,40,Sherlock Gnomes,Par.,"$43,242,871","3,662","$10,604,774","3,662",3/23/18,6/14/18,SherlockGnomes,,,,,Sherlock_Gnomes,28.0,36.0
+53,53,64,"Paul, Apostle of Christ",Sony,"$17,560,475","1,473","$5,172,585","1,473",3/23/18,5/24/18,PaulMovie,,,,,Paul_Apostle_of_Christ,47.0,81.0
+54,54,70,Midnight Sun,Global Road,"$9,561,064","2,173","$4,003,993","2,173",3/23/18,-,MidnightSunMovie,,,,,midnight_sun_2018,17.0,52.0
+55,55,74,Unsane,BST,"$7,732,899","2,023","$3,762,145","2,023",3/23/18,4/12/18,Unsane,,,,,Unsane,80.0,58.0
+56,56,16,I Can Only Imagine,RAtt.,"$83,482,352","2,894","$17,108,914","1,629",3/16/18,7/12/18,ICanOnlyImagine,,,,,i_can_only_imagine_2018,68.0,92.0
+57,57,26,Tomb Raider,WB,"$57,421,715","3,854","$23,633,317","3,854",3/16/18,5/31/18,TombRaider,,,,,tomb_raider_2018,49.0,58.0
+58,58,42,"Love, Simon",Fox,"$40,826,341","2,434","$11,756,244","2,402",3/16/18,6/14/18,LOVESIMON,,,,,Love_Simon,91.0,89.0
+59,59,86,7 Days in Entebbe,Focus,"$3,347,813",838,"$1,592,645",838,3/16/18,5/20/18,7DaysInEntebbe,,,,,7_Days_in_Entebbe,25.0,39.0
+60,60,13,A Wrinkle in Time,BV,"$100,478,608","3,980","$33,123,609","3,980",3/9/18,7/5/18,WrinkleInTime,,,,,a_wrinkle_in_time_2018,40.0,29.0
+61,61,56,Strangers: Prey at Night,Aviron,"$24,586,708","2,464","$10,402,271","2,464",3/9/18,5/31/18,PreyAtNight,,,,,Strangers_Prey_at_Night,38.0,37.0
+62,62,77,The Hurricane Heist,ENTMP,"$6,115,825","2,402","$3,024,399","2,402",3/9/18,5/10/18,TheHurricaneHeist,,,,,The_Hurricane_Heist,44.0,26.0
+63,63,82,Gringo,STX,"$4,969,853","2,404","$2,722,420","2,404",3/9/18,4/5/18,GringoMovie,,,,,gringo_2018,40.0,41.0
+64,64,34,Red Sparrow,Fox,"$46,874,505","3,064","$16,853,422","3,056",3/2/18,-,RedSparrow,,,,,Red_Sparrow,47.0,50.0
+65,65,47,Death Wish (2018),MGM,"$34,017,028","2,882","$13,010,267","2,847",3/2/18,5/31/18,TheHurricaneHeist,,,,,Death_Wish_2018,18.0,75.0
+66,66,18,Game Night,WB (NL),"$69,001,013","3,502","$17,005,332","3,488",2/23/18,6/21/18,GameNight,,,,,Game_Night,83.0,79.0
+67,67,48,Annihilation,Par.,"$32,732,301","2,112","$11,071,584","2,012",2/23/18,4/19/18,annihilation,,,,,Annihilation,87.0,66.0
+68,68,78,Every Day (2018),Orion,"$6,102,076","1,669","$3,016,149","1,667",2/23/18,3/22/18,EveryDayMovie,,,,,Every_Day_2018,63.0,56.0
+69,69,1,Black Panther,BV,"$699,953,434","4,084","$202,003,951","4,020",2/16/18,-,BlackPanther,,,,,black_panther_2018,97.0,79.0
+70,70,73,Early Man,LGF,"$8,267,544","2,494","$3,190,525","2,494",2/16/18,3/29/18,EarlyMan,,,,,Early_Man,82.0,51.0
+71,71,83,Samson,PFR,"$4,719,928","1,249","$1,942,569","1,249",2/16/18,4/12/18,SamsonMovie,,,,,samson_2018,25.0,55.0
+72,72,11,Peter Rabbit,Sony,"$115,253,424","3,725","$25,010,928","3,725",2/9/18,6/14/18,PeterRabbit ,PeterRabbitMovie,,,,peter_rabbit_2018,63.0,58.0
+73,73,14,Fifty Shades Freed,Uni.,"$100,407,760","3,768","$38,560,195","3,768",2/9/18,4/5/18,FiftyShadesFreed,,,,,Fifty_Shades_Freed,13.0,38.0
+74,74,46,The 15:17 to Paris,WB,"$36,250,957","3,042","$12,554,286","3,042",2/9/18,4/12/18,1517ToParis,,,,,The_1517_to_Paris,24.0,40.0
+75,75,55,Winchester,LGF,"$25,091,816","2,480","$9,307,626","2,480",2/2/18,3/29/18,WinchesterMovie,,,,,Winchester,24.0,40.0
+76,76,98,85: The Greatest Team in Football History,Fathom,"$115,463",199,,,1/29/18,1/29/18,BearDown,ShuffleOn,,,,85_The_Greatest_Team_in_Football_History,-1.0,-1.0
+77,77,25,Maze Runner: The Death Cure,Fox,"$58,032,443","3,793","$24,167,011","3,787",1/26/18,5/3/18,DeathCure,,,,,Maze_Runner_The_Death_Cure,65.0,85.0
+78,78,53,Hostiles,ENTMP,"$29,819,114","2,934","$22,849",3,1/26/18,5/10/18,Hostiles,,,,,Hostiles,73.0,72.0
+79,79,36,12 Strongs,WB,"$45,500,164","3,018","$15,815,025","3,002",1/19/18,3/29/18,12StrongMovie,,,,,,,
+80,80,37,Den of Thieves,STX,"$44,947,622","2,432","$15,206,108","2,432",1/19/18,3/22/18,DenOfThieves,,,,,Den_of_Thieves,40.0,63.0
+81,81,52,"I, Tonya",Neon,"$30,014,539","1,450","$264,155",4,1/19/18,4/19/18,ITonya,,,,,I_Tonya,89.0,88.0
+82,82,58,Phantom Thread,Focus,"$21,051,680","1,186","$216,495",4,1/19/18,4/12/18,PhantomThread,,,,,Phantom_Thread,91.0,69.0
+83,83,62,Call Me by Your Name,SPC,"$18,095,701",914,"$412,932",4,1/19/18,4/26/18,CMBYN,,,,,Call_Me_by_Your_Name,95.0,85.0
+84,84,66,Forever My Girl,RAtt.,"$16,376,066","1,427","$4,245,630","1,114",1/19/18,5/10/18,ForeverMyGirl,,,,,Forever_My_Girl,21.0,85.0
+85,85,17,The Post,Fox,"$81,903,458","2,851","$526,011",9,1/12/18,5/17/18,ThePost,,,,,The_Post,87.0,72.0
+86,86,44,Paddington 2,WB,"$40,442,052","3,702","$11,001,961","3,702",1/12/18,3/15/18,Paddington2,,,,,Paddington_2,100.0,88.0
+87,87,45,The Commuter,LGF,"$36,343,858","2,892","$13,701,452","2,892",1/12/18,3/15/18,TheCommuter,,,,,The_Commuter,57.0,41.0
+88,88,59,Proud Mary,SGem,"$20,877,013","2,125","$9,959,053","2,125",1/12/18,3/8/18,ProudMaryMovie,,,,,Proud_Mary,28.0,49.0
+89,89,20,Insidious: The Last Key,Uni.,"$67,347,895","3,150","$29,581,355","3,116",1/5/18,3/1/18,insidiousthelastkey,,,,,Insidious_The_Last_Key,32.0,57.0
+90,90,54,Molly's Game,STX,"$28,780,744","1,708","$2,349,967",271,1/5/18,3/8/18,MollysGame,,,,,Mollys_Game,82.0,84.0
+91,91,91,All the Money in the World,TriS,"$25,113,707","2,123","$5,584,684","2,074",12/25/17,3/22/17,AllTheMoney,,,,,All_the_Money_in_the_World,77.0,67.0
+92,92,30,Pitch Perfect 3,Uni.,"$104,897,530","3,468","$19,928,525","3,447",12/22/17,3/8/17,pitchperfect3,,,,,Pitch_Perfect_3,32.0,46.0
+93,93,46,The Shape of Water,FoxS,"$63,859,435","2,341","$166,564",2,12/22/17,5/3/17,TheShapeofWater,,,,,the_shape_of_water_2017,92.0,73.0
+94,94,50,Darkest Hour,Focus,"$56,468,410","1,733","$175,006",4,12/22/17,4/12/17,DarkestHour,,,,,darkest_hour_2017,85.0,82.0
+95,95,93,Downsizing,Par.,"$24,449,754","2,668","$4,954,287","2,668",12/22/17,2/1/17,Downsizing,,,,,Downsizing,51.0,22.0
+96,96,107,Father Figures,WB,"$17,501,244","2,902","$3,287,451","2,902",12/22/17,2/15/17,FatherFigures,,,,,father_figures_2017,19.0,28.0
+97,97,4,Jumanji: Welcome to the Jungle,Sony,"$404,515,480","3,849","$36,169,328","3,765",12/20/17,5/31/17,JUMANJI,,,,,Jumanji_Welcome_to_the_Jungle,76.0,88.0
+98,98,18,The Greatest Showman,Fox,"$174,340,174","3,342","$8,805,843","3,006",12/20/17,7/26/17,GreatestShowman,,,,,The_Greatest_Showman,56.0,87.0
+99,99,1,Star Wars: The Last Jedi,BV,"$620,181,382","4,232","$220,009,584","4,232",12/15/17,4/19/17,StarWarsTheLastJedi ,,,,,Star_Wars_The_Last_Jedi,90.0,46.0
+100,100,39,Ferdinand,Fox,"$84,410,380","3,630","$13,401,586","3,621",12/15/17,5/31/17,Ferdinand,,,,,Ferdinand,71.0,49.0
+101,101,99,The Disaster Artist,A24,"$21,120,616","1,010","$1,211,345",19,12/8/17,3/8/17,TheDisasterArtist,,,,,The_Disaster_Artist,91.0,87.0
+102,102,138,Just Getting Started,BG,"$6,069,605","2,161","$3,201,459","2,161",12/8/17,1/25/17,JustGettingStarted,,,,,Just_Getting_Started,5.0,10.0
+103,103,52,"Three Billboards Outside Ebbing, Missouri",FoxS,"$54,513,740","1,726","$322,168",4,12/1/17,5/3/17,ThreeBillboards,,,,,Three_Billboards_Outside_Ebbing_Missouri,92.0,87.0
+104,104,57,Lady Bird,A24,"$48,958,273","1,557","$364,437",4,11/24/17,4/5/17,LadyBird,,,,,Lady_Bird,99.0,79.0
+105,105,141,The Man Who Invented Christmas,BST,"$5,676,486",720,"$1,357,129",626,11/24/17,1/25/17,InventingChristmas,,,,,The_Man_Who_Invented_Christmas,80.0,78.0
+106,106,13,Coco,BV,"$209,726,015","3,987","$50,802,605","3,987",11/22/17,4/26/17,PixarCoco,,,,,coco_2017,97.0,94.0
+107,107,119,"Roman J. Israel, Esq.",Sony,"$11,962,778","1,669","$61,999",4,11/22/17,2/22/17,RomanIsraelMovie,,,,,Roman_J_Israel_Esq,51.0,54.0
+108,108,10,Justice League,WB,"$229,024,295","4,051","$93,842,239","4,051",11/17/17,3/15/17,JusticeLeague,,,,,justice_league_2017,40.0,74.0
+109,109,25,Wonder,LGF,"$132,422,809","3,519","$27,547,866","3,096",11/17/17,3/22/17,WonderTheMovie,,,,,Wonder,85.0,88.0
+110,110,68,The Star,Sony,"$40,852,824","2,976","$9,812,674","2,837",11/17/17,2/15/17,TheStarMovie,,,,,The_Star,0.0,60.0
+111,111,164,TCM Presents Casablanca 75th Anniversary,Fathom,"$1,024,560",725,"$596,068",725,11/12/17,11/15/17,Casablanca75,,,,,casablanca_75th_anniversary_presented_by_tcm,-1.0,100.0
+112,112,31,Daddy's Home 2,Par.,"$104,029,443","3,575","$29,651,193","3,575",11/10/17,2/15/17,DaddysHome2,,,,,Daddys_Home_2,19.0,52.0
+113,113,32,Murder on the Orient Express (2017),Fox,"$102,826,543","3,354","$28,681,472","3,341",11/10/17,-,OrientExpressMovie,,,,,Murder_on_the_Orient_Express_2017,57.0,54.0
+114,114,155,Pokemon the Movie: I Choose You!,Fathom,"$2,401,722",789,,,11/5/17,11/16/17,PokemonIChooseYou,,,,,Pokemon_the_Movie_I_Choose_You,43.0,66.0
+115,115,8,Thor: Ragnarok,BV,"$315,058,289","4,080","$122,744,989","4,080",11/3/17,3/15/17,ThorRagnarok,,,,,Thor_Ragnarok,92.0,87.0
+116,116,131,Let there be Light,ADC,"$7,233,471",774,"$1,729,535",373,11/3/17,2/16/17,LTBLfilm,,,,,Let_there_be_Light,83.0,84.0
+117,117,153,LBJ,Electric,"$2,470,979",659,"$1,110,565",659,11/3/17,12/21/17,LBJMovie,,,,,LBJ,55.0,56.0
+118,118,44,A Bad Moms Christmas,STX,"$72,110,659","3,615","$16,759,161","3,615",11/1/17,1/11/17,BadMomsXmas,,,,,A_Bad_Moms_Christmas,29.0,45.0
+119,119,71,Jigsaw,LGF,"$38,052,832","2,941","$16,640,452","2,941",10/27/17,12/21/17,JigsawMovie,,,,,jigsaw_2017,35.0,90.0
+120,120,125,Thank You for Your Service (2017),Uni.,"$9,536,300","2,083","$3,817,700","2,054",10/27/17,11/30/17,ThankYouForYourService,,,,,Thank_You_for_Your_Service_2017,77.0,74.0
+121,121,140,Suburbicon,Par.,"$5,775,178","2,046","$2,840,246","2,046",10/27/17,11/16/17,Suburbicon,,,,,Suburbicon,29.0,25.0
+122,122,163,Spirited Away (Fathom Event),Fathom,"$1,196,791",632,"$903,896",632,10/27/17,-,SpiritedAway,,,,,spirited_away_studio_ghibli_fest_2018,-1.0,-1.0
+123,123,165,Kirk Cameron REVIVE US 2,Fathom,"$718,607",731,,,10/24/17,11/2/17,KirkCameron,,,,,Kirk_Cameron_REVIVE_US_2,-1.0,-1.0
+124,124,58,Tyler Perry's Boo 2! A Madea Halloween,LGF,"$47,319,572","2,388","$21,226,953","2,388",10/20/17,12/14/17,Boo2,,,,,Tyler_Perrys_Boo_2_A_Madea_Halloween,6.0,40.0
+125,125,76,Geostorm,WB,"$33,700,160","3,246","$13,707,376","3,246",10/20/17,1/11/17,Geostorm,,,,,Geostorm,14.0,37.0
+126,126,104,Only The Brave,Sony,"$18,343,983","2,577","$6,002,665","2,577",10/20/17,2/1/17,OnlyTheBrave,,,,,only_the_brave_2017,87.0,91.0
+127,127,136,The Snowman,Uni.,"$6,700,035","1,815","$3,372,565","1,812",10/20/17,11/23/17,TheSnowman,,,,,the_snowman_2017,8.0,19.0
+128,128,137,Same Kind of Different as Me,PFR,"$6,423,605","1,362","$2,591,985","1,362",10/20/17,2/1/17,SameKindMovie,,,,,Same_Kind_of_Different_as_Me,33.0,88.0
+129,129,51,Happy Death Day,Uni.,"$55,683,845","3,535","$26,039,025","3,149",10/13/17,12/14/17,happydeathday,,,,,Happy_Death_Day,71.0,65.0
+130,130,73,The Foreigner,STX,"$34,393,507","2,515","$13,113,024","2,515",10/13/17,12/21/17,theforeigner,ForeignerMovie,,,,the_foreigner_2017,63.0,72.0
+131,131,124,Marshall,ORF,"$10,051,659",821,"$3,000,805",821,10/13/17,1/18/17,MarshallMovie,,,,,Marshall,83.0,85.0
+132,132,161,Professor Marston & the Wonder Women,Annapurna,"$1,584,759","1,229","$736,883","1,229",10/13/17,11/20/17,marstonmovie,professormarstonandthewonderwomen,,,,Professor_Marston_and_the_Wonder_Women,87.0,78.0
+133,133,35,Geostorm,WB,"$92,054,159","4,058","$32,753,122","4,058",10/6/17,2/1/17,bladerunner2049,,,,,Geostorm,14.0,37.0
+134,134,83,The Mountain Between Us,Fox,"$30,348,555","3,259","$10,551,336","3,088",10/6/17,12/21/17,themountainbetweenus,MountainBetween,,,,The_Mountain_Between_Us,40.0,47.0
+135,135,95,Victoria and Abdul,Focus,"$22,245,070","1,060","$158,845",4,10/6/17,1/4/17,victoriaandabdul,VictoriaAbdul,,,,Victoria_and_Abdul,66.0,68.0
+136,136,97,My Little Pony: The Movie,LGF,"$21,885,107","2,528","$8,885,899","2,528",10/6/17,-,mylittlepony,mlpmovie,,,,my_little_pony_the_movie_2017,47.0,77.0
+137,137,162,The Stray,Purd.,"$1,579,440",640,"$596,547",640,10/6/17,12/14/17,TheStrayMovie,TheStrayDogFilm,,,,the_stray_2017,33.0,71.0
+138,138,55,American Made,Uni.,"$51,342,000","3,098","$16,776,390","3,024",9/29/17,12/14/17,AmMadeMovie,AmericanMade,,,,american_made_2017,86.0,78.0
+139,139,109,Flatliners (2017),Sony,"$16,883,115","2,552","$6,574,326","2,552",9/29/17,11/23/17,flatliners,flatlinersmovie,,,,Flatliners_2017,5.0,34.0
+140,140,117,Battle of the Sexes,FoxS,"$12,638,526","1,822","$518,332",21,9/29/17,12/21/17,battleofthesexes,botsfilm,,,,Battle_of_the_Sexes,85.0,72.0
+141,141,144,Stronger,RAtt.,"$4,211,129",645,"$1,611,040",573,9/29/17,11/30/17,strongermovie,strongerthefilm,,,,stronger_2017,92.0,81.0
+142,142,151,A Question Of Faith,PFR,"$2,587,072",661,"$1,025,489",661,9/29/17,12/14/17,AQuestionofFaith,,,,,A_Question_Of_Faith,67.0,40.0
+143,143,34,Kingsman: The Golden Circle,Fox,"$100,234,838","4,038","$39,023,010","4,003",9/22/17,1/4/17,Kingsman,,,,,Kingsman_The_Golden_Circle,52.0,65.0
+144,144,47,The LEGO Ninjago Movie,WB,"$59,281,555","4,047","$20,433,071","4,047",9/22/17,11/30/17,LEGONINJAGOMovie,,,,,The_LEGO_Ninjago_Movie,55.0,46.0
+145,145,145,Friend Request,ENTMP,"$3,759,078","2,573","$2,002,863","2,573",9/22/17,11/30/17,FriendRequest,,,,,Friend_Request,14.0,29.0
+146,146,72,American Assassin,LGF,"$36,249,674","3,154","$14,846,778","3,154",9/15/17,11/9/17,americanassassin,,,,,american_assassin_2017,34.0,61.0
+147,147,105,mother!,Par.,"$17,800,004","2,368","$7,534,673","2,368",9/15/17,10/26/17,mothermovie,,,,,mother_2017,69.0,50.0
+148,148,7,It,WB (NL),"$327,481,748","4,148","$123,403,419","4,103",9/8/17,12/14/17,itmovie,,,,,it_2017,85.0,84.0
+149,149,88,Home Again,ORF,"$27,020,284","3,036","$8,567,881","2,940",9/8/17,11/9/17,HomeAgainMovie,,,,,home_again_2017,33.0,45.0
+150,150,149,Close Encounters of the Third Kind (40th Anniversary),Sony,"$3,100,479",901,"$1,767,758",901,9/1/17,9/21/17,ce3k,,,,,close_encounters_of_the_third_kind_40th_anniversary_release,100.0,92.0
+151,151,154,Tulip Fever,Wein.,"$2,455,635",772,"$1,158,017",765,9/1/17,11/16/17,tulipfeverfilm,,,,,Tulip_Fever,9.0,45.0
+152,152,98,Leap!,Wein.,"$21,858,070","2,705","$4,730,038","2,575",8/25/17,12/7/17,LeapMovie,,,,,Leap,37.0,63.0
+153,153,135,Birth of the Dragon,BH Tilt,"$6,901,965","1,633","$2,702,430","1,618",8/25/17,9/28/17,birthofthedragon,,,,,Birth_of_the_Dragon,26.0,69.0
+154,154,139,All Saints,Sony,"$5,802,208",846,"$1,514,278",846,8/25/17,10/26/17,AllSaints,,,,,All_Saints,94.0,73.0
+155,155,150,Ingrid Goes West,Neon,"$3,024,308",647,"$135,301",3,8/25/17,10/26/17,ingridegoeswest,IamIngrid,,,,Ingrid_Goes_West,85.0,71.0
+156,156,158,Good Time,A24,"$2,026,499",721,"$125,101",4,8/25/17,11/12/17,GoodTime,,,,,Good_Time,92.0,80.0
+157,157,41,The Hitman's Bodyguard,LG/S,"$75,468,583","3,377","$21,384,504","3,377",8/18/17,11/2/17,hitmansbodyguard,,,,,The_Hitmans_Bodyguard,39.0,67.0
+158,158,75,Wind River,Wein.,"$33,800,859","2,890","$161,558",4,8/18/17,12/7/17,WindRiver,,,,,wind_river_2017,87.0,90.0
+159,159,87,Logan Lucky,BST,"$27,780,977","3,031","$7,600,036","3,031",8/18/17,11/9/17,loganslucky,,,,,Logan_Lucky,93.0,75.0
+160,160,33,Annabelle: Creation,WB (NL),"$102,092,201","3,565","$35,006,404","3,502",8/11/17,11/2/17,AnnabelleCreation,,,,,Annabelle_Creation,70.0,68.0
+161,161,85,The Nut Job 2: Nutty by Nature,ORF,"$28,370,522","4,003","$8,342,311","4,003",8/11/17,9/28/17,TheNutJob2,,,,,The_Nut_Job_2_Nutty_by_Nature,13.0,44.0
+162,162,108,The Glass Castle,LGF,"$17,273,059","1,461","$4,678,548","1,461",8/11/17,10/12/17,GlassCastle,,,,,the_glass_castle_2017,50.0,73.0
+163,163,56,The Dark Tower,Sony,"$50,701,325","3,451","$19,153,698","3,451",8/4/17,10/19/17,darktower,,,,,the_dark_tower_2017,16.0,46.0
+164,164,81,Kidnap (2017),Aviron,"$30,718,107","2,418","$10,016,323","2,378",8/4/17,11/16/17,KidnapMovie,,,,,Kidnap_2017,37.0,50.0
+165,165,110,Detroit,Annapurna,"$16,790,139","3,007","$350,190",20,8/4/17,10/12/17,DetroitMovie.,,,,,detroit_2017,83.0,79.0
+166,166,37,The Emoji Movie,Sony,"$86,089,513","4,075","$24,531,923","4,075",7/28/17,11/30/17,emojimovie,,,,,The_Emoji_Movie,8.0,39.0
+167,167,54,Atomic Blonde,Focus,"$51,687,870","3,326","$18,286,420","3,304",7/28/17,10/5/17,atomicblonde,atomicblonde,,,,atomic_blonde_2017,77.0,64.0
+168,168,14,Dunkirk,WB,"$188,045,546","4,014","$50,513,488","3,720",7/21/17,11/23/17,dunkirkmovie,dunkirk,,,,dunkirk_2017,92.0,81.0
+169,169,27,Girls Trip,Uni.,"$115,171,585","2,648","$31,201,920","2,591",7/21/17,10/19/17,girlstripmovie ‏,,,,,Girls_Trip,90.0,79.0
+170,170,67,Valerian and the City of a Thousand Planets,STX,"$41,189,488","3,553","$17,007,624","3,553",7/21/17,9/21/17,valerian,valerianmovie,valerianmovie,,,Valerian_and_the_City_of_a_Thousand_Planets,49.0,54.0
+171,171,23,War for the Planet of the Apes,Fox,"$146,880,162","4,100","$56,262,929","4,022",7/14/17,11/30/17,warfortheplanetoftheapes,,,,,War_for_the_Planet_of_the_Apes,93.0,84.0
+172,172,66,The Big Sick,LGF,"$42,873,127","2,597","$421,577",5,7/14/17,10/22/17,TheBigSick,,,,,The_Big_Sick,98.0,88.0
+173,173,112,Wish Upon,BG,"$14,301,505","2,250","$5,467,084","2,250",7/14/17,10/12/17,WishUpon,,,,,Wish_Upon,16.0,31.0
+174,174,6,Spider-Man: Homecoming,Sony,"$334,201,140","4,348","$117,027,503","4,348",7/7/17,11/30/17,spidermanhomecoming,,,,,Spider-Man_Homecoming,92.0,88.0
+175,175,9,Despicable Me 3,Uni.,"$264,624,300","4,535","$72,434,025","4,529",6/30/17,12/21/17,despicableme3,,,,,Despicable_Me_3,59.0,54.0
+176,176,90,The House,WB (NL),"$25,584,504","3,134","$8,724,795","3,134",6/30/17,8/31/17,TheHouse,,,,,the_house_2017,18.0,36.0
+177,177,121,The Beguiled (2017),Focus,"$10,709,995",941,"$229,292",4,6/30/17,8/17/17,beguiled,,,,,The_Beguiled_2017,78.0,48.0
+178,178,133,Beatriz At Dinner,RAtt.,"$7,115,854",683,"$141,959",5,6/30/17,10/5/17,beatrizatdinner,,,,,Beatriz_At_Dinner,74.0,55.0
+179,179,29,Baby Driver,TriS,"$107,825,862","3,226","$20,553,320","3,226",6/28/17,10/19/17,babydriver,,,,,Baby_Driver,93.0,86.0
+180,180,143,The Book of Henry,Focus,"$4,504,974",650,"$1,424,540",579,6/23/17,8/17/17,thebookofhenry,thebookofhenry,,,,The_Book_of_Henry,20.0,63.0
+181,181,26,Transformers: The Last Knight,Par.,"$130,168,683","4,132","$44,680,073","4,069",6/21/17,8/24/17,transformers5,transformersthelastknight,,,,Transformers_The_Last_Knight,16.0,44.0
+182,182,22,Cars 3,BV,"$152,901,115","4,256","$53,688,680","4,256",6/16/17,11/2/17,cars3,,,,,Cars_3,68.0,70.0
+183,183,63,All Eyez on Me,LG/S,"$44,922,302","2,471","$26,435,354","2,471",6/16/17,8/3/17,AllEyezOnMe,,,,,all_eyez_on_me_2017,17.0,53.0
+184,184,65,47 Meters Down,ENTMP,"$44,307,192","2,471","$11,205,561","2,270",6/16/17,10/19/17,47metersdown,,,,,47_Meters_Down,55.0,36.0
+185,185,96,Rough Night,Sony,"$22,105,643","3,162","$8,004,283","3,162",6/16/17,8/31/17,RoughNight,,,,,Rough_Night,44.0,29.0
+186,186,40,The Mummy (2017),Uni.,"$80,227,895","4,035","$31,688,375","4,035",6/9/17,8/24/17,themummy,,,,,The_Mummy_2017,15.0,35.0
+187,187,113,It Comes At Night,A24,"$13,985,117","2,533","$5,988,370","2,533",6/9/17,9/17/17,ItComesAtNight,,,,,It_Comes_At_Night,88.0,44.0
+188,188,115,Megan Leavey,BST,"$13,406,883","1,956","$3,810,867","1,956",6/9/17,9/14/17,meganleavey,,,,,Megan_Leavey,84.0,82.0
+189,189,3,Wonder Woman,WB,"$412,563,408","4,165","$103,251,471","4,165",6/2/17,11/9/17,wonderwomanmovie,WonderWoman,WonderWomanFilm,,,Wonder_Woman,88.0,78.0
+190,190,43,Captain Underpants: The First Epic Movie,Fox,"$73,921,000","3,529","$23,851,539","3,434",6/2/17,11/2/17,captainunderpants,,,,,Captain_Underpants_The_First_Epic_Movie,86.0,61.0
+191,191,19,La La Land,LG/S,"$151,101,803","3,236","$881,104",5,12/25/16,4/27/16,lalaland,,,,,La_La_Land,92.0,81.0
+192,192,57,Fences,Par.,"$57,682,904","2,368","$129,462",4,12/25/16,3/30/16,FencesMovie,,,,,fences_2016,94.0,75.0
+193,193,54,Why Him?,Fox,"$60,323,786","3,008","$11,002,986","2,917",12/23/16,3/23/16,WhyHim,WhyHimMovie,,,,Why_Him?,38.0,51.0
+194,194,10,Sing,Uni.,"$270,395,425","4,029","$35,258,145","4,022",12/21/16,5/11/16,singmovie,passengers,,,,Sing,43.0,90.0
+195,195,30,Passengers (2016),Sony,"$100,014,699","3,478","$14,869,736","3,478",12/21/16,4/20/16,passengers,passengersmovie,,,,Passengers_2016,31.0,63.0
+196,196,63,Assassin's Creed,Fox,"$54,647,948","2,996","$10,278,225","2,970",12/21/16,3/9/16,AssassinsCreed,,,,,Assassins_Creed,19.0,43.0
+197,197,1,Rogue One: A Star Wars Story,BV,"$532,177,324","4,157","$155,081,681","4,157",12/16/16,5/4/16,rogueone,RogueOneMovie,starwars,,,Rogue_One_A_Star_Wars_Story,85.0,87.0
+198,198,68,Manchester by the Sea,RAtt.,"$47,695,371","1,213","$256,498",4,12/16/16,4/27/16,manchesterbythesea,mbtsmovie,,,,Manchester_by_the_Sea,95.0,77.0
+199,199,86,Collateral Beauty,WB (NL),"$31,016,021","3,028","$7,102,085","3,028",12/16/16,2/9/16,collateralbeauty,CBeautyMovie,,,,Collateral_Beauty,14.0,64.0
+200,200,62,Office Christmas Party,Par.,"$54,767,494","3,210","$16,890,204","3,210",12/9/16,1/26/16,OfficeChristmasParty,officexmasparty,,,,Office_Christmas_Party,41.0,41.0
+201,201,132,Nocturnal Animals,Focus,"$10,663,357","1,262","$492,648",37,12/9/16,1/26/16,nocturnalanimals,,,,,Nocturnal_Animals,72.0,73.0
+202,202,154,Miss Sloane,EC,"$3,500,605","1,648","$59,797",3,12/9/16,1/2/16,misssloane,missloanemovie,,,,Miss_Sloane,76.0,71.0
+203,203,165,The Bounce Back,VPD,"$321,910",615,"$227,354",615,12/9/16,12/22/16,bouncebackfilm,TheBounceBack,,,,The_Bounce_Back,67.0,77.0
+204,204,146,Incarnate,BH Tilt,"$4,799,774","1,737","$2,534,884","1,737",12/2/16,12/29/16,Incarnate,,,,,incarnate_2016,17.0,24.0
+205,205,163,Believe (2016),Free,"$890,303",638,"$477,387",638,12/2/16,1/5/16,thebelievefilm,thebelievefilm,,,,Believe_2016,33.0,69.0
+206,206,11,Moana,BV,"$248,757,044","3,875","$56,631,401","3,875",11/23/16,4/27/16,moana,disneymoana,,,,Moana,82.0,69.0
+207,207,75,Allied,Par.,"$40,098,064","3,160","$12,701,743","3,160",11/23/16,1/26/16,AlliedMovie,,,,,Allied,59.0,64.0
+208,208,111,Bad Santa 2,BG,"$17,782,178","2,945","$6,176,680","2,920",11/23/16,1/26/16,badsanta,BadSanta2,,,,Bad_Santa_2,23.0,34.0
+209,209,153,Rules Don't Apply,Fox,"$3,652,206","2,386","$1,589,625","2,382",11/23/16,12/22/16,RulesDontApply,,,,,Rules_Dont_Apply,57.0,33.0
+210,210,12,Fantastic Beasts and Where To Find Them,WB,"$234,037,575","4,144","$74,403,387","4,144",11/18/16,3/30/16,fantasticbeasts,moonlightmov,,,,Fantastic_Beasts_and_Where_To_Find_Them,74.0,79.0
+211,211,90,Moonlight (2016),A24,"$27,854,932","1,564","$402,075",4,11/18/16,5/4/16,moonlight,moonlightmov,,,,Moonlight_2016,98.0,79.0
+212,212,121,The Edge of Seventeen,STX,"$14,431,633","1,945","$4,754,215","1,945",11/18/16,1/5/16,edgeof17,,,,,The_Edge_of_Seventeen,95.0,83.0
+213,213,145,Bleed for This,ORF,"$5,083,906","1,549","$2,366,810","1,549",11/18/16,12/15/16,BleedForThis,BleedForThis,,,,Bleed_for_This,70.0,69.0
+214,214,159,Billy Lynn's Long Halftime Walk,TriS,"$1,738,477","1,176","$114,129",2,11/18/16,12/15/16,BillyLynn,,,,,Billy_Lynns_Long_Halftime_Walk,45.0,41.0
+215,215,29,Arrival,Par.,"$100,546,139","3,115","$24,074,047","2,317",11/11/16,3/9/16,ArrivalMovie,,,,,arrival_2016,94.0,82.0
+216,216,73,Almost Christmas,Uni.,"$42,158,780","2,379","$15,134,235","2,376",11/11/16,1/12/16,AlmostChristmas,,,,,Almost_Christmas,46.0,22.0
+217,217,141,Shut In,EC,"$6,900,335","2,058","$3,613,567","2,058",11/11/16,1/2/16,ShutIn,,,,,Shut_In,8.0,22.0
+218,218,13,Doctor Strange,BV,"$232,641,920","3,882","$85,058,311","3,882",11/4/16,3/16/16,DoctorStrange,,,,,doctor_strange_2016,89.0,86.0
+219,219,18,Trolls,Fox,"$153,707,064","4,066","$46,581,142","4,060",11/4/16,3/30/16,DreamWorksTrolls,,,,,Trolls,74.0,68.0
+220,220,46,Hacksaw Ridge,LGF,"$67,209,615","2,971","$15,190,758","2,886",11/4/16,3/9/16,HacksawRidge,,,,,Hacksaw_Ridge,86.0,91.0
+221,221,83,Inferno,Sony,"$34,343,574","3,576","$14,860,425","3,576",10/28/16,1/19/16,InfernoMovie,,,,,inferno_2016,22.0,36.0
+222,222,42,Boo! A Madea Halloween,LGF,"$73,206,343","2,299","$28,501,448","2,260",10/21/16,12/22/16,Boo2,,,,,Boo_A_Madea_Halloween,23.0,53.0
+223,223,56,Jack Reacher: Never Go Back,Par.,"$58,697,076","3,780","$22,872,490","3,780",10/21/16,1/12/16,JackReacherMovie,,,,,Jack_Reacher_Never_Go_Back,37.0,42.0
+224,224,81,Ouija: Origin of Evil,Uni.,"$35,144,505","3,168","$14,065,500","3,167",10/21/16,12/29/16,OuijaMovie ,,,,,Ouija_Origin_of_Evil,83.0,57.0
+225,225,117,Keeping Up with the Joneses,Fox,"$14,904,426","3,022","$5,461,475","3,022",10/21/16,12/29/16,KeepingUpWithTheJoneses ,,,,,Keeping_Up_with_the_Joneses,20.0,37.0
+226,226,149,Denial,BST,"$4,073,489",648,"$93,728",5,10/21/16,12/19/16,denialmovie ,,,,,denial_2016,83.0,71.0
+227,227,36,The Accountant,WB,"$86,260,045","3,402","$24,710,273","3,332",10/14/16,1/12/16,TheAccountant,,,,,the_accountant_2016,52.0,76.0
+228,228,98,Kevin Hart: What Now?,Uni.,"$23,591,043","2,567","$11,767,210","2,567",10/14/16,12/15/16,KevinHart4real,,,,,Kevin_Hart_What_Now?,78.0,58.0
+229,229,151,Max Steel,ORF,"$3,818,664","2,034","$2,182,216","2,034",10/14/16,11/3/16,MaxSteel ,,,,,Max_Steel,0.0,48.0
+230,230,41,The Girl on the Train (2016),Uni.,"$75,395,035","3,241","$24,536,265","3,144",10/7/16,12/29/16,thegirlonthetrain,,,,,The_Girl_on_the_Train_2016,45.0,49.0
+231,231,106,Middle School: The Worst Years of My Life,LGF,"$20,007,149","2,822","$6,878,437","2,822",10/7/16,12/1/16,middleschoolmovie ,,,,,Middle_School_The_Worst_Years_of_My_Life,58.0,58.0
+232,232,114,The Birth of a Nation,FoxS,"$15,861,566","2,105","$7,004,254","2,105",10/7/16,12/8/16,TheBirthOfANation ,,,,,the_birth_of_a_nation_2016,72.0,72.0
+233,233,35,Miss Peregrine's Home for Peculiar Children,Fox,"$87,242,834","3,835","$28,871,140","3,522",9/30/16,2/9/16,MissPeregrine,,,,,Miss_Peregrines_Home_for_Peculiar_Children,63.0,60.0
+234,234,53,Deepwater Horizon,LG/S,"$61,433,527","3,403","$20,223,544","3,259",9/30/16,12/15/16,DeepwaterHorizon,,,,,Deepwater_Horizon,83.0,82.0
+235,235,112,Masterminds (2016),Rela.,"$17,368,022","3,042","$6,541,205","3,042",9/30/16,11/10/16,Masterminds,,,,,Masterminds_2016,34.0,35.0
+236,236,138,Queen of Katwe,BV,"$8,874,389","1,259","$304,933",52,9/30/16,1/5/16,QueenOfKatwe,,,,,Queen_of_Katwe,93.0,87.0
+237,237,32,The Magnificent Seven (2016),Sony,"$93,432,655","3,696","$34,703,397","3,674",9/23/16,1/5/16,Mag7,,,,,The_Magnificent_Seven_2016,63.0,72.0
+238,238,43,Storks,WB,"$72,679,278","3,922","$21,311,407","3,922",9/23/16,1/12/16,Storks,,,,,Storks,64.0,62.0
+239,239,97,Bridget Jones's Baby,Uni.,"$24,252,420","2,930","$8,571,785","2,927",9/16/16,12/15/16,BridgetJonesBaby,,,,,Bridget_Joness_Baby,77.0,65.0
+240,240,100,Snowden,ORF,"$21,587,519","2,443","$8,000,058","2,443",9/16/16,11/17/16,Snowden,,,,,Snowden,61.0,70.0
+241,241,103,Blair Witch,LGF,"$20,777,061","3,121","$9,576,057","3,121",9/16/16,10/27/16,blairwitch,,,,,Blair_Witch,35.0,31.0
+242,242,157,Hillsong - Let Hope Rise,PFR,"$2,394,386",816,"$1,357,243",816,9/16/16,10/23/16,HillsongMovie,,,,,Hillsong_Let_Hope_Rise,60.0,79.0
+243,243,24,Sully,WB,"$125,070,033","3,955","$35,028,301","3,525",9/9/16,1/26/16,Sully,,,,,Sully,86.0,84.0
+244,244,88,When the Bough Breaks,SGem,"$29,747,603","2,246","$14,202,323","2,246",9/9/16,11/17/16,WhenTheBoughBreaks ,,,,,when_the_bough_breaks_2016,11.0,46.0
+245,245,140,The Wild Life (2016),LG/S,"$8,005,586","2,493","$3,342,696","2,493",9/9/16,10/13/16,WildlifeTheFilm,,,,,the_wild_life,16.0,28.0
+246,246,156,The Disappointments Room,Rela.,"$2,423,468","1,554","$1,402,823","1,554",9/9/16,10/27/16,TheDisappointmentsRoom,,,,,The_Disappointments_Room,0.0,17.0
+247,247,126,The Light Between Oceans,BV,"$12,545,979","1,500","$4,765,838","1,500",9/2/16,11/3/16,LightBetweenOceans,,,,,The_Light_Between_Oceans,59.0,61.0
+248,248,150,Morgan,Fox,"$3,915,251","2,020","$2,012,709","2,020",9/2/16,10/6/16,WhatIsMorgan,,,,,Morgan,69.0,79.0
+249,249,34,Don't Breathe,SGem,"$89,217,875","3,384","$26,411,706","3,051",8/26/16,12/22/16,DontBreathe,,,,,dont_breathe_2016,88.0,78.0
+250,250,93,Hell or High Water,LGF,"$27,007,844","1,505","$621,329",32,8/26/16,11/17/16,HOHWMovie,,,,,Hell_or_High_Water,97.0,88.0
+251,251,101,Mechanic: Resurrection,LG/S,"$21,218,403","2,258","$7,456,525","2,258",8/26/16,10/27/16,MechanicResurrection,,,,,Mechanic_Resurrection,31.0,40.0
+252,252,144,Southside with You,RAtt.,"$6,304,223",897,"$2,868,403",813,8/26/16,11/3/16,SouthsideWithYou,,,,,Southside_with_You,92.0,72.0
+253,253,147,Hands of Stone,Wein.,"$4,712,792","2,011","$1,751,388",810,8/26/16,10/13/16,HandsOfStone ,,,,,Hands_of_Stone,44.0,52.0
+254,254,67,Kubo and the Two Strings,Focus,"$48,023,088","3,279","$12,608,372","3,260",8/19/16,12/1/16,KuboMovie,,,,,Kubo_and_the_Two_Strings,97.0,86.0
+255,255,72,War Dogs,WB,"$43,034,523","3,258","$14,685,305","3,258",8/19/16,10/20/16,WarDogs,,,,,war_dogs_2016,59.0,69.0
+256,256,95,Ben-Hur (2016),Par.,"$26,410,477","3,084","$11,203,815","3,084",8/19/16,10/6/16,BENHUR ,,,,,Ben-Hur_2016,25.0,53.0
+257,257,31,Sausage Party,Sony,"$97,685,686","3,135","$34,263,534","3,103",8/12/16,12/22/16,SausagePartyMovie,,,,,Sausage_Party,82.0,50.0
+258,258,40,Pete's Dragon (2016),BV,"$76,233,151","3,702","$21,514,095","3,702",8/12/16,12/15/16,PetesDragon ,,,,,Petes_Dragon_2016,88.0,72.0
+259,259,92,Florence Foster Jenkins,Par.,"$27,383,770","1,528","$6,601,313","1,528",8/12/16,10/27/16,FlorenceFosterJenkins,,,,,florence_foster_jenkins_2016,87.0,68.0
+260,260,9,Suicide Squad,WB,"$325,100,054","4,255","$133,682,248","4,255",8/5/16,11/10/16,SuicideSquad,,,,,suicide_squad_2016,27.0,60.0
+261,261,129,Cafe Society,LGF,"$11,103,205",631,"$359,289",5,8/5/16,10/6/16,CafeSociety,,,,,cafe_society_2016,70.0,56.0
+262,262,15,Jason Bourne,Uni.,"$162,434,410","4,039","$59,215,365","4,026",7/29/16,12/22/16,JasonBourne,,,,,Jason_Bourne,55.0,56.0
+263,263,25,Bad Moms,STX,"$113,257,297","3,215","$23,817,340","3,215",7/29/16,10/27/16,BadMomsXmas,,,,,Bad_Moms,58.0,63.0
+264,264,76,Nerve,LGF,"$38,583,626","2,538","$9,445,456","2,538",7/27/16,10/6/16,NERVE,,,,,nerve_2016,66.0,66.0
+265,265,16,Star Trek Beyond,Par.,"$158,848,340","3,928","$59,253,211","3,928",7/22/16,10/20/16,StarTrekBeyond,,,,,Star_Trek_Beyond,85.0,80.0
+266,266,45,Lights Out,WB (NL),"$67,268,835","2,835","$21,688,103","2,818",7/22/16,9/29/16,LightsOutMovie,,,,,lights_out_2016,76.0,62.0
+267,267,49,Ice Age: Collision Course,Fox,"$64,063,008","3,997","$21,373,064","3,992",7/22/16,11/3/16,IceAge,ICEAGE,,,,Ice_Age_Collision_Course,16.0,39.0
+268,268,123,Hillary's America: The Secret History of the Democratic Party,QF,"$13,099,931","1,217","$74,814",3,7/22/16,10/13/16,HillarysAmerica,,,,,Hillarys_America_The_Secret_History_of_the_Democratic_Party,4.0,80.0
+269,269,21,Ghostbusters (2016),Sony,"$128,350,574","3,963","$46,018,755","3,963",7/15/16,11/10/16,Ghostbusters2016 ,,,,,Ghostbusters_2016,74.0,51.0
+270,270,116,The Infiltrator,BG,"$15,436,808","1,601","$5,303,775","1,601",7/13/16,10/6/16,TheInfiltrator,,,,,The_Infiltrator,70.0,71.0
+271,271,4,The Secret Life of Pets,Uni.,"$368,384,330","4,381","$104,352,905","4,370",7/8/16,12/29/16,TheSecretLifeofPets,,,,,The_Secret_Life_of_Pets,74.0,62.0
+272,272,71,Mike and Dave Need Wedding Dates,Fox,"$46,009,673","3,008","$16,628,170","2,982",7/8/16,10/13/16,MikeAndDave ,,,,,Mike_and_Dave_Need_Wedding_Dates,35.0,51.0
+273,273,23,The Legend of Tarzan,WB,"$126,643,061","3,591","$38,527,856","3,561",7/1/16,9/15/16,LegendOfTarzan,,,,,The_Legend_of_Tarzan,37.0,59.0
+274,274,38,The Purge: Election Year,Uni.,"$79,213,375","2,821","$31,515,110","2,796",7/1/16,10/13/16,ThePurgeElectionYear,,,,,The_Purge_Election_Year,53.0,48.0
+275,275,59,The BFG,BV,"$55,483,770","3,392","$18,775,350","3,357",7/1/16,10/13/16,TheBFG,,,,,the_bfg_2016,75.0,57.0
+276,276,148,Swiss Army Man,A24,"$4,210,454",636,"$105,453",3,7/1/16,9/29/16,SwissArmyMan ,,,,,Swiss_Army_Man,70.0,72.0
+277,277,27,Independence Day: Resurgence,Fox,"$103,144,286","4,130","$41,039,944","4,130",6/24/16,9/15/16,IndependenceDay,,,,,Independence_Day_Resurgence,30.0,30.0
+278,278,61,The Shallows,Sony,"$55,124,043","2,962","$16,800,868","2,962",6/24/16,9/29/16,TheShallows,,,,,The_Shallows,78.0,59.0
+279,279,102,Free State of Jones,STX,"$20,810,036","2,815","$7,572,206","2,815",6/24/16,7/28/16,freestateofjones,,,,,Free_State_of_Jones,46.0,63.0
+280,280,162,The Neon Demon,BG,"$1,333,124",783,"$589,014",783,6/24/16,8/4/16,TheNeonDemon,,,,,The_Neon_Demon,57.0,51.0
+281,281,2,Finding Dory,BV,"$486,295,561","4,305","$135,060,273","4,305",6/17/16,12/8/16,FindingDory,,,,,Finding_Dory,94.0,84.0
+282,282,22,Central Intelligence,WB (NL),"$127,440,871","3,508","$35,535,250","3,508",6/17/16,9/1/16,CentralIntelligence,,,,,Central_Intelligence,70.0,61.0
+283,283,28,The Conjuring 2,WB (NL),"$102,470,008","3,356","$40,406,314","3,343",6/10/16,8/25/16,TheConjuring2,,,,,The_Conjuring_2,79.0,81.0
+284,284,48,Now You See Me 2,LG/S,"$65,075,540","3,232","$22,383,146","3,232",6/10/16,8/25/16,NowYouSeeMe2,,,,,Now_You_See_Me_2,34.0,53.0
+285,285,69,Warcraft,Uni.,"$47,365,290","3,406","$24,166,110","3,400",6/10/16,9/8/16,Warcraft,BattleForAzeroth,WoW,,,Warcraft,27.0,77.0
+286,286,37,Teenage Mutant Ninja Turtles: Out of the Shadows,Par.,"$82,051,601","4,071","$35,316,382","4,071",6/3/16,9/8/16,TMNT2,,,,,Teenage_Mutant_Ninja_Turtles_Out_of_the_Shadows,37.0,47.0
+287,287,58,Me Before You,WB (NL),"$56,245,075","2,762","$18,723,269","2,704",6/3/16,8/18/16,MeBeforeYou ,,,,,Me_Before_You,56.0,73.0
+288,288,122,Love & Friendship,RAtt.,"$14,016,568",826,"$133,513",4,6/3/16,9/22/16,LoveAndFriendship,,,,,Love_and_Friendship,97.0,60.0
